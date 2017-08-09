@@ -1,4 +1,4 @@
-# SimpleBasic-Sec-20-2
+# SmallBasic-Sec-20-2
 Below is the code I created to satisfy the Section requirements for the Branch availabitlity for Portland, New York and London
 
 
